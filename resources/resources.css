@@ -1,0 +1,80 @@
+
+BODY {
+  color: #288828;
+  background-color: #208020;
+  font-family: Arial, Helvetica, "MS Sans Serif", sans-serif;
+  font-size: 20px;
+}
+
+TD {
+  color: #CCFFFF;
+  background-color: #400040;
+  font-family: Arial, Helvetica, "MS Sans Serif", sans-serif;
+  font-size: 20px;
+}
+
+P {
+  font-size: 15px;
+}
+
+H1, H2, H3, H4, H5, H6 {
+  font-family: "Times New Roman", Times, "MS Serif", serif;
+}
+
+H1 {
+  font-size: 32px;
+}
+
+H2 {
+  font-size: 24px;
+}
+
+H3 {
+  font-size: 20px;
+}
+
+H4 {
+  font-size: 17px;
+}
+
+H5 {
+  font-size: 15px;
+}
+
+H6 {
+  font-size: 12px;
+}
+
+A:link {
+  color: #0080FF;
+  text-decoration: underline;
+}
+
+A:visited {
+  color: #DB00DB;
+}
+
+.serifed {
+  font-family: "Times New Roman", Times, "MS Serif", serif;
+}
+
+.sans {
+  font-family: Arial, Helvetica, "MS Sans Serif", sans-serif;
+}
+
+.script {
+  font-family: "Zapf Chancery", "Times New Roman Italic", "Times Italic", cursive;
+}
+
+.hilite {
+  color: #80FF80;
+}
+
+.hilite-big {
+  color: #80FF80;
+  font-size: 110%;
+}
+
+.footer {
+  font-size: 12px;
+}

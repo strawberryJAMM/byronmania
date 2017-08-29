@@ -1,0 +1,67 @@
+
+BODY {
+  color: #FFF5D7;
+  background-color: #FFFFCC;
+  font-family: "Times New Roman", Times, "MS Serif", serif;
+  font-size: 15px;
+}
+
+.serifed {
+  font-family: "Times New Roman", serif;
+}
+
+.sans {
+  font-family: Arial, Helvetica, "MS Sans Serif", sans-serif;
+}
+
+.script {
+  font-family: "Comic Sans MS", cursive;
+}
+
+.hilite {
+  color: #FFFFCC;
+}
+
+.hilite-big {
+  color: #FFFFCC;
+  font-size: large;
+}
+
+TD {
+  color: #FFBF28;
+  background-color: #000080;
+  font-family: "Times New Roman", Times, "MS Serif", serif;
+  font-size: 15px;
+}
+
+P {
+  font-size: 15px;
+}
+
+H1 {
+  font-size: 32px;
+}
+
+H2 {
+  font-size: 24px;
+}
+
+H3 {
+  font-size: 20px;
+}
+
+H4 {
+  font-size: 17px;
+}
+
+H5 {
+  font-size: 15px;
+}
+
+A:link {
+  color: #0080FF;
+}
+
+A:visited {
+  color: #FF80C0;
+}

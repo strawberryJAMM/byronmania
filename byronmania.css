@@ -1,0 +1,89 @@
+
+BODY {
+  background-color: black;
+  font-family: "Times New Roman", Times, "MS Serif", serif;
+  font-size: 15px;
+  color: #660033;
+}
+
+A {
+  font-family: Arial, Helvetica, "MS Sans Serif", sans-serif;
+  font-size: 12px;
+  text-decoration: underline;
+}
+
+A:link {
+  color: #ff9933;
+  text-decoration: underline;
+}
+
+A:visited {
+  color: ff99ff;
+  text-decoration: underline;
+}
+
+A.bookmark {
+  text-decoration: none;
+  font-size: 100%;
+}
+
+A.toc, SPAN.toc {
+  font-family: Arial, Helvetica, "MS Sans Serif", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+A.toc:hover {
+  text-decoration: underline;
+}
+
+.footer {
+  font-size: 15px;
+}
+
+TD {
+  color: #FFFFCC;
+  background-color: #99231F;
+  font-size: 15px;
+}
+
+H1, H2, H3, H4, H5, H6 {
+  font-family: "Times New Roman", Times, "MS Serif", serif;
+}
+
+H1 {
+  font-size: 44px;
+}
+
+H2 {
+  font-size: 24px;
+}
+
+H3 {
+  font-size: 21px;
+}
+
+H4 {
+  font-size: 18px;
+}
+
+H5 {
+  font-size: 15px;
+}
+
+H6 {
+  font-size: 12px;
+}
+
+TD.top {
+  background-image: url(resources/images/edge-top.gif);
+}
+
+TD.left {
+  background-image: url(resources/images/edge-left.gif);
+}
+
+TD.bot {
+  background-image: url(resources/images/edge-bot.gif);
+}
